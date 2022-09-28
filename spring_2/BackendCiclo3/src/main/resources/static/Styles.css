@@ -1,0 +1,76 @@
+#slogan {
+  width: 78rem;
+  padding: 9rem 0rem 12rem 0rem;
+  margin: 3rem 0rem 2rem 1rem;
+  text-align: center;
+  counter-increment: 1rem;
+}
+
+#imagenSlogan {
+  margin-top: 4rem;
+  height: 420px;
+  margin-right: 2rem;
+  position: relative;
+}
+
+.boton-primario-de-compra {
+  margin: 1% 40%;
+  padding: 0rem 6rem;
+  text-align: center;
+  box-sizing: unset;
+  height: 48px;
+  width: 110px;
+  background-color: rgb(235, 235, 88);
+  border-color: rgb(235, 235, 88);
+}
+
+.start-50 {
+  left: 40% !important;
+}
+
+.brands {
+  display: flex;
+  width: 100vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  gap: 32vh;
+  margin-top: 40px;
+}
+
+.yellow-line {
+  height: 3px;
+  border-top: solid;
+  border-top-color: #ffc107;
+  margin-top: 20px;
+}
+
+.footer-content {
+  height: 14rem;
+  display: flex;
+  width: 100vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  gap: 60vh;
+  margin-top: 40px;
+  background-color: #ffc107;
+}
+
+.item-padding{
+  padding-top: 0.5rem;
+}
+
+.brands img{
+  width: 120px;
+}
+
+.chupaos{
+  width: 210px !important;
+}
+
+.brands-tittle {
+  text-align: center;
+  margin-top: 2rem;
+  font-weight: bold;
+}
